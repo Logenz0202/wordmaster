@@ -1,2 +1,7 @@
 # wordmaster
-Kopia repo dla projektu na przedmiot Frontend Development. UG, sem 3, 2024/2025.
+
+Wordmaster is pretty much a copy of Wordle with basic login and a few game modes.
+
+Maybe some day it will get updated with multiplayer, friends lists, etc.
+
+In the meantime, you can [try it out](https://wordmaster-d22ee.web.app/) by yourself.
